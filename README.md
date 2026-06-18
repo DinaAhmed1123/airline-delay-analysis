@@ -58,6 +58,10 @@ Interactive Tableau dashboard combining all five business questions into a singl
 **View Interactive Tableau Dashboard:**
 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/AirlineDelayCausesAnalysis/Dashboard1?language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
+### Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## 💡 Key Findings
 
 ### Delay Causes
